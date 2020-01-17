@@ -3,7 +3,7 @@
 #include <cstring>
 #include <string>
 #include <ctime>
-
+//Изменение для Git'a
 //Функция вывода массива
 void printArray1(int a[], size_t n) {
 
